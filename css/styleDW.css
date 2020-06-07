@@ -1,0 +1,72 @@
+body {
+	background : url("../img/background5.jpg") no-repeat scroll;
+	background-size: cover;
+}
+p {
+	text-indent: 40px;
+}
+.blue { color: rgb(0, 255, 240)
+; }
+.red { color: red; }
+.description {
+	text-align: center;
+	width: 300px;
+	height: 100px;
+	font-size: 40px;
+}
+.photo {
+	position: absolute;
+	margin-top: -350px;
+	z-index: 0;
+}
+.content {
+	padding-bottom: 100px;
+	position: absolute;
+	left: 275px;
+	top: 500px;
+	width: 960px;
+
+}
+#d1 {
+	position: absolute;
+	right: -20%;
+	top: 127px;
+}
+#d2 {
+	position: absolute;
+	right: -20%;
+	top: 737px;
+}
+#d3 {
+	position: absolute;
+	right: 67%;
+	top: 279px;
+}
+#d4 {
+	position: absolute;
+	right: 90%;
+	top: 370px;
+}
+#d5 {
+	position: absolute;
+	right: 90%;
+	top: 623px;
+}
+#info {
+	position: absolute;
+    width: 400px;
+    right: 34%;
+    top: 775px;
+}
+.i1 {
+	color: gray;
+	font-size: 34px;
+}
+.text2 {
+	font-size: 30px;
+	position: absolute;
+	top: 900px;
+	padding-bottom: 50px;
+	margin-left: -120px;
+	margin-right: -120px;
+}

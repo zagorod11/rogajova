@@ -1,0 +1,39 @@
+@font-face {
+			font-family: "ArsenalRegular";
+			src: url("../fonts/ArsenalRegular/ArsenalRegular.eot");
+			src: url("../fonts/ArsenalRegular/ArsenalRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/ArsenalRegular/ArsenalRegular.woff") format("woff"),
+			url("../fonts/ArsenalRegular/ArsenalRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "ArsenalItalic";
+			src: url("../fonts/ArsenalItalic/ArsenalItalic.eot");
+			src: url("../fonts/ArsenalItalic/ArsenalItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/ArsenalItalic/ArsenalItalic.woff") format("woff"),
+			url("../fonts/ArsenalItalic/ArsenalItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "ArsenalBold";
+			src: url("../fonts/ArsenalBold/ArsenalBold.eot");
+			src: url("../fonts/ArsenalBold/ArsenalBold.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/ArsenalBold/ArsenalBold.woff") format("woff"),
+			url("../fonts/ArsenalBold/ArsenalBold.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "ArsenalBoldItalic";
+			src: url("../fonts/ArsenalBoldItalic/ArsenalBoldItalic.eot");
+			src: url("../fonts/ArsenalBoldItalic/ArsenalBoldItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/ArsenalBoldItalic/ArsenalBoldItalic.woff") format("woff"),
+			url("../fonts/ArsenalBoldItalic/ArsenalBoldItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
